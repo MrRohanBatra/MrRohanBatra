@@ -2,11 +2,11 @@
 
 Hi, I'm Rohan! I build software that bridges the gap between mobile apps and the physical world.
 
-🔭 **I’m currently working on:** High-performance Mobile Apps (**Jetpack Compose & Flutter**) and low-latency IoT systems (HydroEcho, ADAS).
-👯 **I’m looking to collaborate on:** Generative AI on Edge, Fintech solutions, and Smart Automotive tech.
-🌱 **I’m currently learning:** Optimizing **Local LLMs** for mobile and advanced System Design.
-💬 **Ask me about:** Flutter, C++, Python, Web Dev, Backend, and how to make **ESP32** talk to phones instantly.
-⚡ **Fun fact:** I love writing code that makes hardware feel "smart" and responsive! 🚀
+🔭 **I’m currently working on:** High-performance Mobile Apps (**Jetpack Compose & Flutter**) and low-latency IoT systems (HydroEcho, ADAS).<br>
+👯 **I’m looking to collaborate on:** Generative AI on Edge, Fintech solutions, and Smart Automotive tech.<br>
+🌱 **I’m currently learning:** Optimizing **Local LLMs** for mobile and advanced System Design.<br>
+💬 **Ask me about:** Flutter, C++, Python, Web Dev, Backend, and how to make **ESP32** talk to phones instantly.<br>
+⚡ **Fun fact:** I love writing code that makes hardware feel "smart" and responsive! 🚀<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rohanbatra1607) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohanbatra1607) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-batra-913013281) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30116699) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@rohanbatra1607) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohanbatra.in@gmail.com) 
